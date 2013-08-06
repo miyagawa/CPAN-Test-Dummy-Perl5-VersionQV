@@ -1,6 +1,6 @@
 # NAME
 
-CPAN::Test::Dummy::Perl5::VersionQV - Blah blah blah
+CPAN::Test::Dummy::Perl5::VersionQV - qv() version
 
 # SYNOPSIS
 
@@ -8,7 +8,7 @@ CPAN::Test::Dummy::Perl5::VersionQV - Blah blah blah
 
 # DESCRIPTION
 
-CPAN::Test::Dummy::Perl5::VersionQV is
+CPAN::Test::Dummy::Perl5::VersionQV is a dummy CPAN distribution with the use of `qv()` in its VERSION line.
 
 # AUTHOR
 

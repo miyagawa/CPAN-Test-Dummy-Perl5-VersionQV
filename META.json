@@ -1,5 +1,5 @@
 {
-   "abstract" : "Blah blah blah",
+   "abstract" : "qv() version",
    "author" : [
       "Tatsuhiko Miyagawa <miyagawa@bulknews.net>"
    ],
@@ -46,6 +46,17 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/miyagawa/CPAN-Test-Dummy-Perl5-VersionQV/issues"
+      },
+      "homepage" : "https://github.com/miyagawa/CPAN-Test-Dummy-Perl5-VersionQV",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/miyagawa/CPAN-Test-Dummy-Perl5-VersionQV.git",
+         "web" : "https://github.com/miyagawa/CPAN-Test-Dummy-Perl5-VersionQV"
+      }
+   },
+   "version" : "0.0.1"
 }
 
