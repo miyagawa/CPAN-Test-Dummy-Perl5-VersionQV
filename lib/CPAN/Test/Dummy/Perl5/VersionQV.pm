@@ -2,7 +2,7 @@ package CPAN::Test::Dummy::Perl5::VersionQV;
 
 use strict;
 use 5.008_005;
-use version 0.77; our $VERSION = qv('0.0.1');
+use version 0.77; our $VERSION = qv('v0.1.0');
 
 1;
 __END__
